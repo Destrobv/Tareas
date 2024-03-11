@@ -44,3 +44,4 @@ print("Temperatura promedio por ciudad:")
 for ciudad, temp_promedio in resultado.items():
     print(f"{ciudad}: {temp_promedio}")
 
+
