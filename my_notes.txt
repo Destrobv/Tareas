@@ -1,0 +1,4 @@
+linea 1: hacer los pendientes . 
+linea 2: ordenar las cosas .
+linea 3: hacer las compras .
+linea 4: hacer los trabajos pendientes.
